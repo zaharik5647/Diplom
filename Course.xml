@@ -1,10 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <course xmlns="https://ulearn.me/schema/v2" title="Спидран ФИИТ УрФУ">
   <enableCodeReviewAndQuizManualCheckForEveryone>false</enableCodeReviewAndQuizManualCheckForEveryone>
   <dictionaryFile>dictionary.txt</dictionaryFile>
   <defaultLanguage>csharp</defaultLanguage>
   <units>
-    <add>*/unit.xml</add>
+    <add>*/Unit1/unit.xml</add>
+    <add>*/Unit2/unit.xml</add>
+    <add>*/Unit3/unit.xml</add>
   </units>
   <scoring defaultQuiz="laboratory" defaultExercise="homework" default="laboratory">
     <group id="laboratory" abbr="ЛЗ" maxAdditionalScore="10">Лабораторные занятия</group>
