@@ -1,34 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide xmlns="https://ulearn.me/schema/v2" title="Урок" id="db5d4ac8-a9b0-4a36-8d94-cbc1d09950ae">
-  <markdown xml:space="preserve">
-Можно использовать TeX: $\Theta(n)$
-
-__Markdown__ разметку `текста`.
-
-Изображения:
-![logo](img/markdown.png)
-
-Список:
-
-1. элемент раз
-2. элемент два
-    * вложенный ненумерованный
-
-
-[Markdown Extra](https://michelf.ca/projects/php-markdown/extra) фичи. В частности, простые таблицы:
-
-Header 1				| h2
--------------		| -------------:
-*Content1*				| 42
-`Content Cell`	| 100500
-  </markdown>
-  <spoiler text="Можно прятать спойлер под кнопку">
-    <markdown>
-       Под спойлером могут быть *любые блоки*.
-    </markdown>
-  </spoiler>
-  <html>
-     Можно вставлять <span style="color: red">произвольный HTML</span>
-  </html>
-  <youtube>dYEutOH_dXA</youtube>
-</slide>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Знакомство" id="db5d4ac8-a9b0-4a36-8d94-cbc1d09950ae">
+    <scoring tries="3" group="laboratory"/>
+    <question.text id="fillInQuestion" explanation=""  >
+        <text>Представьтесь! Введите ваши имя и фамилию</text>
+        <regex>*</regex>
+    </question.text>
+    <question.isTrue id="isTrueQuestion" explanation="Прекрасно! Ждём вас с нетерпением в списке абитуриентов" answer="true" >
+        <text>Планируете ли вы поступать в этом году?</text>
+    </question.isTrue>
+    <question.choice id="choiceQuestion" multiple="false" shuffle="true" maxScore="3">
+        <text>Выберите вариант</text>
+        <item id="1" isCorrect="true">
+            Первый вариант
+            Вторая строка первого варианта
+        </item>
+        <item id="2" isCorrect="false">Второй вариант. Формула TeX: $a \times b$</item>
+        <item id="3" isCorrect="false">Третий вариант</item>
+        <item id="4" isCorrect="false">Четвёртый вариант</item>
+    </question.choice>
+    <question.choice id="choiceQuestionMultiple" multiple="true" shuffle="true">
+        <text>Выберите варианты</text>
+        <allowedMistakes checkedUnnecessary="1" notCheckedNecessary="0"/>
+        <item id="1" isCorrect="true">Первый вариант</item>
+        <item id="2" isCorrect="false">Второй вариант</item>
+        <item id="3" isCorrect="maybe">Третий вариант. Его можно как выбрать, так и не выбирать</item>
+        <item id="4" isCorrect="false">Четвёртый вариант</item>
+    </question.choice>
+</slide.quiz>

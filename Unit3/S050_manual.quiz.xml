@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Пример теста с ручной проверкой" id="41138C54848F4F49856BB738B7E39D29">
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="15" id="65590714-faa8-43a3-a09d-18fc33117a89">
   <scoring manualCheck="true"/>
   <question.text id="123" explanation="одна или более цифр" maxScore="5">
     <text>Введите корректное число</text>
