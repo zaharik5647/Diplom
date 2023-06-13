@@ -8,11 +8,12 @@
 
     Помоги Васе исправить ошибки и убедиться, что его ждут четыре лучших года впереди!
   </markdown>
-  <exercise.universal exerciseDirName="infa/infa" noStudentZip="true" type="check-output">
+  <exercise.universal exerciseDirName="infa/infa" noStudentZip="true" type="check-output" >
     <checkForPlagiarism>false</checkForPlagiarism>
-    <hideSolutions>true</hideSolutions>
-    <userCodeFile>Program.cs</userCodeFile>
+    <expected>Ura!</expected>
+    <hideSolutions>false</hideSolutions>
+    <userCodeFile>MyTask.cs</userCodeFile>
     <run>dotnet run infa.csproj</run>
-    <dockerImageName>netcore-sandbox</dockerImageName>
+    <dockerImageName>dotnet-sandbox</dockerImageName>
   </exercise.universal>
 </slide.exercise>

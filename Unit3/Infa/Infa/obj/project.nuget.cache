@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZ4T7DX+KyBeGcemiPoVZrtdCovqZZF8uV2e4rwMfvVqAi4f0FELrnyAxfkgJC7EgNfWslxtTIuSK5I/l9ILVQ==",
+  "dgSpecHash": "BVKNykMPiwtMPhyhjqmbVqDRyHa4db0/bM1zytvkT8QtLb3VNPK9RAviOW/HSwtdWm4tRHpozdKyGSUBg72ctQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Захар\\Desktop\\Основной курс\\Diplom\\Unit3\\Infa\\Infa\\Infa.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Захар\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

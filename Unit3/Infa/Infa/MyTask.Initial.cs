@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Program
+public static class MyTask
 {
-    static void Main()
+    public static string DoMagic()
     {
         var matematika == 92; // Тут явно что-то лишнее
         var informatika = 94 // А тут наоборот не хватает
@@ -11,8 +11,8 @@ class Program
         var sum = /*Скорее всего Вася хотел тут вывести сумму всех вышестоящих переменных*/ ;
 
         if (sum /*Скорее всего Вася хотел тут вывести сумму всех вышестоящих переменных*/ 274)
-            Console.WriteLine("Ура я прошёл!");
+            return "Ura!";
         else
-            Console.WriteLine("Ещё повезет...");
+            return "Ohh...";
     }
 }
