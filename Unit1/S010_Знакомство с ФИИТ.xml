@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Знакомство с ФИИТ" id="db5d4ac8-a9b0-4a36-8d94-cbc1d09950ae">
+    <markdown xml:space="preserve">
+        **ФИИТ - это ...**
+    </markdown>
+    <youtube>stPA1wMJg1A</youtube>
+    <markdown xml:space="preserve">
+        Чтобы познакомиться с нами поближе советуем тебе следующие источники:
+
+        * [Наш сайт](https://michelf.ca/projects/php-markdown/extra)
+        * [Группа Вконтакте](https://vk.com/fiiturfu)
+        * [Подкаст про ФИИТ](https://music.yandex.ru/album/22408995)
+        
+        
+    </markdown>
+    <spoiler text="В таких местах будут прятаться подсказки и интересные факты">
+        <markdown>Если вдруг у тебя останутся вопросы, ты всегда можешь написать нам в наш [Чат в телеграме](https://web.telegram.org/a/#-1466195211).</markdown>
+    </spoiler>
+</slide>

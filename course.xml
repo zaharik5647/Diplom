@@ -8,6 +8,7 @@
     <add>*Unit2/unit.xml</add>
     <add>*Unit3/unit.xml</add>
     <add>*Unit4/unit.xml</add>
+    <add>*Unit5/unit.xml</add>
   </units>
   <scoring defaultQuiz="laboratory" defaultExercise="homework" default="laboratory">
     <group id="laboratory" abbr="ЛЗ" maxAdditionalScore="10">Лабораторные занятия</group>

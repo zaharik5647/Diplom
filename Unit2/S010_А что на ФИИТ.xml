@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="А что на ФИИТ" id="b8698d03-536e-423a-a8bb-0d38419eabf0">
+  <markdown xml:space="preserve">
+    
+  </markdown>
+  <spoiler text="Тут можно познакомиться со всем списком предметов на выбор, изучаемых на третьем и четвертом курсе">
+    <markdown>
+        [Курсы по выбору](https://docs.google.com/spreadsheets/d/1RjWolkHv7Y_DlT9e1iI8vAsasU0lBzAt1PmXXrEsoVc/edit?p=1210#gid=762383616)
+    </markdown>
+  </spoiler>
+</slide>
