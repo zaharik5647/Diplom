@@ -11,8 +11,6 @@
     <add>*Unit5/unit.xml</add>
   </units>
   <scoring defaultQuiz="laboratory" defaultExercise="homework" default="laboratory">
-    <group id="laboratory" abbr="ЛЗ" maxAdditionalScore="10">Лабораторные занятия</group>
-    <group id="homework" abbr="ДЗ" maxAdditionalScore="20">Домашняя работа</group>
-    <group id="activity" abbr="Акт" maxAdditionalScore="0" enableForEveryone="true">Активность на уроках</group>
+    <group id="laboratory" abbr="ЛЗ" maxAdditionalScore="0">Лабораторные занятия</group>
   </scoring>
 </course>

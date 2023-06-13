@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.quiz xmlns="https://ulearn.me/schema/v2" title="Знакомство с тобой" id="c1da3ba7-2561-42d5-8f24-5ccef2b176a9">
-  <scoring tries="3" group="laboratory"/>
+  <scoring tries="3" />
   <question.text id="fillInQuestion"  >
     <text>Представься! Введи своё имя и фамилию. </text>
     <regex>*</regex>
