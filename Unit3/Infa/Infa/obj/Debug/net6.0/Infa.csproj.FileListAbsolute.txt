@@ -1,0 +1,15 @@
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.csproj.AssemblyReference.cache
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.AssemblyInfoInputs.cache
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.AssemblyInfo.cs
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.csproj.CoreCompileInputs.cache
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\bin\Debug\net6.0\Infa.exe
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\bin\Debug\net6.0\Infa.deps.json
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\bin\Debug\net6.0\Infa.runtimeconfig.json
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\bin\Debug\net6.0\Infa.dll
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\bin\Debug\net6.0\Infa.pdb
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.dll
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\refint\Infa.dll
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.pdb
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\Infa.genruntimeconfig.cache
+C:\Users\Захар\Desktop\Основной курс\Diplom\Unit3\Infa\Infa\obj\Debug\net6.0\ref\Infa.dll
